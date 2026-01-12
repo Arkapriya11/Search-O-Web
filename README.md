@@ -1,4 +1,4 @@
-# Perplexity‑Lite (Flask + JS)
+# Search-O-Web (Flask + JS)
 
 A minimal, local, Perplexity-like prototype: ask a question, get an extractive summary and linked sources.
 
